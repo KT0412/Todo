@@ -1,0 +1,19 @@
+@charset "utf-8";
+
+form input[type=date]{
+    margin-left: 5px;
+    height: 40px;
+    
+
+}
+form input[type=submit]{
+    margin-left: 20px
+}
+
+table tr{
+    border-bottom: 5px double #b7ffdb;
+}
+
+.form-control{
+    width: 115% !important;
+}

@@ -1,0 +1,26 @@
+@import './base.css';
+
+#app {
+  font-weight: normal;
+  max-width: 370px;
+  margin: 0 auto;
+  overflow-x: hidden;
+}
+
+.todoApp{
+  background-color: #fff;
+  border: 2px solid #e8ffd1;
+  border-radius: 10px;
+  padding: 50px 10px;
+}
+
+a,
+.green {
+  text-decoration: none;
+  color: hsla(160, 100%, 37%, 1);
+  transition: 0.4s;
+  padding: 3px;
+}
+
+
+
